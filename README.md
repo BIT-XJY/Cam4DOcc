@@ -1,6 +1,6 @@
 # Cam4DOcc
 
-The official code an data for the benchmark with baselines for our paper: [Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)
+The official code and data for the benchmark with baselines for our paper: [Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications](https://arxiv.org/abs/2311.17663)
 
 This work has been accepted by CVPR 2024 :tada:
 
